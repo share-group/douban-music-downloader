@@ -1,0 +1,42 @@
+{
+  "playlist": [
+    {
+      "styles": [],
+      "picture": [
+        "https://img3.doubanio.com/view/site/large/public/5c9b248bc43bafe.jpg"
+      ],
+      "play_length": "2:52",
+      "lyrics": "",
+      "title": "\u53c8\u4e27\u5230\u60f3\u5531\u6b4c",
+      "is_commentable": true,
+      "subject_id": "0",
+      "rec_url": "https://site.douban.com/201717/?s=740709",
+      "is_downloadable": false,
+      "artist_name": "shamelesslee",
+      "label": "",
+      "play_count": "181",
+      "url": "http://mr3.doubanio.com/8d19687336b83870bc5a516bcf7a0879/0/fm/song/p2977027_128k.mp3",
+      "is_selling": false,
+      "publish_date": "",
+      "sid": "740709",
+      "is_collected": false,
+      "artist": {
+        "picture": "https://img3.doubanio.com/view/site/large/public/5c9b248bc43bafe.jpg",
+        "cover_color": [
+          "#ffffff",
+          "#333333",
+          ""
+        ],
+        "kind": "artist",
+        "follower": 1113,
+        "id": "201717",
+        "is_royalty_artist": false,
+        "style": "\u6c11\u8c23 Folk",
+        "name": "shamelesslee",
+        "url": "https://site.douban.com/shamelesslee/",
+        "song_count": 38,
+        "genre_url": "https://music.douban.com/artists/genre_page/4/"
+      }
+    }
+  ]
+}

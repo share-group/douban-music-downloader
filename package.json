@@ -1,0 +1,14 @@
+{
+  "name": "douban-music-downloader",
+  "version": "1.0.0",
+  "author": "ruanzhijun",
+  "description": "download the mp3 files on https://music.douban.com",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "mkdirp": "0.5.1",
+    "request": "2.88.0"
+  }
+}
