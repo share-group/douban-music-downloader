@@ -1,3 +1,3 @@
 module.exports = {
-  targetDir: 'D:\\mp3\\test'
+  targetDir: 'D:\\mp3\\'
 };
